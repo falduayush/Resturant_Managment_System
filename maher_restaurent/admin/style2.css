@@ -1,0 +1,61 @@
+body{
+	background-color: tomato;
+	margin: 0px;
+}
+.h{
+	color: tomato;
+	background-color: black;
+	font-size: 2.7em;
+	padding: 14px;
+	padding: 35px;
+
+
+}
+.mbg{
+	background-color: purple;
+	padding: 25px;
+}
+.menu{
+	color: white;
+	background-color: black;
+	font-family: Century Gothic;
+	font-size:2.1em;
+	padding: 10px;
+	text-decoration: none;
+
+}
+.menu:hover{
+	color: purple;
+	background-color: white;
+	box-shadow: 1px 1px 10px 1px rgb(255,255,0);
+}
+.content{
+	background-color: white;
+	font-size:21px;
+	width: 75%;
+	margin: 0 auto;
+	padding: 40px;
+
+
+}
+.footer{
+	color: orange;
+	background-color: black;
+	font-family: Calibri;
+	padding: 23px;
+
+}
+.del{
+	color: red;
+}
+tr{
+	color: tomato;
+
+}
+th{
+	color: blue;
+	font-size: 1.2em;
+}
+
+
+
