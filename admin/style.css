@@ -1,0 +1,40 @@
+.bg{
+	background-color: orange;
+}
+
+
+.title{
+	color: red;
+	font-family: cambria;
+	font-size: 1.6em;
+	font-weight: bold;
+
+}
+.text{
+	padding: 12px;
+	background-color: black;
+	color: white;
+	width: 90%;
+	border-radius: 10px;
+	font-weight: bold;
+}
+.tr{
+	color: tomato;
+}
+
+
+
+.btn{
+	color: black;
+	background-color: lightgreen;
+	border:0px;
+	box-shadow: 1px 3px 5px 2px;
+	width: 50%;
+	height: 35px;
+	font-size: 1.3em;
+}
+.ar{
+	padding: 12px;
+	background-color: black;
+	color: white;
+}
